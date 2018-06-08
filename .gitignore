@@ -1,0 +1,4 @@
+**/logs
+**/netcoreapp2.0
+tempkey.rsa
+internal-nlog.txt
